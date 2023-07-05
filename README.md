@@ -9,8 +9,6 @@
 
 - :clock9: actively learning **Backend Technologies**
 
-- 💞️ I want to cooperate on projects where it is necessary to implement API with CRUD methods, development of bots (VK, Telegram), etc.)
-
 - 📫 You can find me by email madrakhimovilgar@gmail.com
 
 ## 🚀Programming languages and tools:
